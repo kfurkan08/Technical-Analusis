@@ -1,1 +1,1 @@
-# Technical-Analusis
+# Technical-Analysis
